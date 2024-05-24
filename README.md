@@ -7,4 +7,5 @@
              ==> Bash: node server.js
 
 # Technology
+   - Python
 #Features
