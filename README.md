@@ -5,3 +5,6 @@
              ==> Bash: npm start
    ../server ==> Bash: npm install
              ==> Bash: node server.js
+
+# Technology
+#Features
