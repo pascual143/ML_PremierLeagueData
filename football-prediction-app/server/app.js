@@ -36,7 +36,7 @@ app.get('/api/matches/:id', (req, res) => {
     resultado: 'Empate', // ... Completar con resultado del partido
   };
 
-  // Generar predicción para el partido específico
+  // Generar predicción para el partido específico.
   const prediction = model.predict([/* Características del partido */]);
   match.prediccion = prediction;
 
